@@ -1,0 +1,83 @@
+.containerTop{
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.topRed{
+  background-color: red;
+  height: 150px;
+  width: 300px;
+
+}
+
+.topBlue{
+  background-color: blue;
+  height: 150px;
+  width: 300px;
+  margin:0 20px;
+
+}
+
+.topGrey{
+  background-color: grey;
+  height: 150px;
+  width: 300px;
+
+}
+
+.containerMiddle{
+  height: 200px;
+  width: 100%;
+  float: bottom;
+}
+
+.containerBottomMiddle{
+  height: 220px;
+  width: 100%;
+  display: flex;
+
+}
+
+.middleRed{
+  background-color: red;
+  height: 200px;
+  width: 300px
+}
+
+.middleBlue{
+  background-color: blue;
+  height: 200px;
+  width: 640px;
+}
+
+.containerBottom{
+  height: 150px;
+  width: 100%;
+  display: flex;
+}
+
+.bottomBlue{
+  background-color: blue;
+  height: 150px;
+  width: 620px;
+}
+
+.bottomRed1{
+  background-color: red;
+  height: 150px;
+  width: 20px;
+}
+
+.bottomGrey{
+  background-color: grey;
+  height: 150px;
+  width: 280px;
+}
+
+.bottomRed2{
+  background-color: red;
+  height: 150px;
+  width: 20px;
+}
